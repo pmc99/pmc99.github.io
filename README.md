@@ -1,2 +1,1 @@
-combine.txt is bellanguage.txt with interleaved bel.bel source code.
-
+combine.txt is bellanguage.txt interleaved with bel.bel source code.
